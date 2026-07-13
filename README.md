@@ -11,7 +11,6 @@
 
 - A fun fact is that **I use edge on my laptop because I'm lazy**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
