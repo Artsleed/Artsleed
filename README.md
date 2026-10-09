@@ -1,15 +1,15 @@
 <h1 align="center">Hi, I'm Nathaniel</h1>
 <h3 align="center">A nerd based in Kingston</h3>
 
-- I’m currently working on **secret project (shhh)**
+- I’m currently working on **aQuatonomous** as the simulation lead
 
 - I’m currently learning **a lot of stuff thb**
 
-- I semi regularly write articles on my website [https://nathaniel-felsky-deelstra.vercel.app/blog](https://nathaniel-felsky-deelstra.vercel.app/blog)
+- I semi regularly write articles on my website [https://nathaniel-felsky-deelstra.vercel.app](https://nathaniel-felsky-deelstra.vercel.app)
 
-- You can see my projects more in depth at [https://nathaniel-felsky-deelstra.vercel.app/projects](https://nathaniel-felsky-deelstra.vercel.app/projects)
+- You can see my projects more in depth at [https://nathaniel-felsky-deelstra.vercel.app](https://nathaniel-felsky-deelstra.vercel.app)
 
-- A fun fact is that **I use edge on my laptop because I'm lazy**
+- A fun fact is that **I use edge on my laptop because I'm too lazy to get chrome**
 
 <p align="left">
 </p>
